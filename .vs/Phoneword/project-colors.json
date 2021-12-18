@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "32cf0479-137f-4d6e-b091-a2330a4dc004": {
+      "ProjectGuid": "32cf0479-137f-4d6e-b091-a2330a4dc004",
+      "DisplayName": "Phoneword",
+      "ColorIndex": 0
+    },
+    "e794ccc4-e0a7-4fb9-921b-e1a5137e07a6": {
+      "ProjectGuid": "e794ccc4-e0a7-4fb9-921b-e1a5137e07a6",
+      "DisplayName": "Phoneword.Android",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
